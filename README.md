@@ -6,4 +6,4 @@ I am Stefan Nusser from Northern Germany, Hamburg Area.
 25 years experience in petrochem project managment, construction, commissioning and risk engineering.
 Presently, I am confessed with safety integrated systems in chemical industry, mostly SIL3 verification and documentation acc. IEC51508/IEC61511. 
 I also do computerized fluid dynamics with Openfoam, NIST Fire Dynamic Simulator, e.g. simulating heavy and toxic gas dispersion, heat radiation.
-I also program engineering math using MAPLE, MATLAB, PHYTHON, C++, R, FORTRAN.
+I also program engineering math using MAPLE, MATLAB, PYTHON, C++, R, FORTRAN.
